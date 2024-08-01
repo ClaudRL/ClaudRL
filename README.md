@@ -1,6 +1,6 @@
 👋 Hi, I’m @ClaudRL  
 👀 I’m interested in Data Analytics and Website development.  
-🌱 I’m currently learning Data Analysis in Excel, SQL and Python.  
+🌱 I’m currently learning Data Analysis in spreadsheet, SQL, Tableau and Python.  
 💞️ I’m looking to collaborate on Portfolio Projects.  
 
 <!---
